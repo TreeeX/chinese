@@ -1,9 +1,9 @@
 ---
-title: Built-in info plugin
+title: 商务场景对话
 icon: material/information
 ---
 
-# Built-in info plugin
+# 商务场景对话
 
 The info plugin is a utility that is solely intended to create self-contained
 [minimal reproductions] as `.zip` files when [reporting bugs] or proposing
@@ -14,9 +14,9 @@ easier, as we have a common ground to work on.
   [reporting bugs]: ../contributing/reporting-a-bug.md
   [change requests]: ../contributing/requesting-a-change.md
 
-## Objective
+## 场景一：谈判
 
-### How it works
+### 核心词汇 短语
 
 The plugin helps you to prepare a minimal reproduction by collecting the
 necessary information about the environment and configuration of your project.
@@ -34,7 +34,7 @@ The output of the plugin is a `.zip` file that you can share with us maintainers
   [Remove your customizations]: ../contributing/reporting-a-bug.md#remove-customizations
 
 
-### When to use it
+### 举例
 
 Whenever you're [reporting a bug][reporting bugs] or have something to discuss,
 like a question or [change request][change requests], you should attach
@@ -43,7 +43,7 @@ communication much more efficient, giving us maintainers more time to benefit
 more users by pushing the project forward. Minimal reproductions are mandatory
 for bug reports.
 
-## Configuration
+## 场景二：核对合同
 
 <!-- md:version 9.0.0 -->
 <!-- md:plugin [info] – built-in -->
@@ -63,7 +63,7 @@ installed.
   [info]: info.md
   [create a minimal reproduction]: ../guides/creating-a-reproduction.md
 
-### General
+### 案例
 
 The following settings are available:
 
