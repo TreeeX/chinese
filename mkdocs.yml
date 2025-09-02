@@ -231,9 +231,9 @@ nav:
       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - Plugins:
     - plugins/index.md
-    - Blog: plugins/blog.md
+    - 展会现场: plugins/展会现场.md
     - Group: plugins/group.md
-    - Info: plugins/info.md
+    - 商务场景: plugins/商务场景.md
     - Meta: plugins/meta.md
     - Offline: plugins/offline.md
     - Optimize: plugins/optimize.md
