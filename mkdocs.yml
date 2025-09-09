@@ -184,7 +184,7 @@ nav:
   - 嗨: index.md
   - 关于我们:
     - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
+    
     - Publishing your site: publishing-your-site.md
     - Customization: customization.md
     - Conventions: conventions.md
